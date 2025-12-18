@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=imDucktor&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 ## Hi there 👋
 
 <!--
