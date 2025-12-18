@@ -1,19 +1,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=imDucktor&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-## Hi there 👋
 
-<!--
-**imDucktor/imDucktor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+Hello there! I am Samet Sarıkaya.
+- 🎓 Currently studying **Software Engineering**(100% Scholarship) at IUE.
+- 🌱 Learning and improving my skills.
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imDucktor&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me
+- **Portfolio:** [sametsarikaya.com](https://sametsarikaya.com)
+- **LinkedIn:** [linkedin.com/in/sametsarikaya](https://linkedin.sametsarikaya.com)
+- **Email:** 13sametsarikaya@gmail.com
