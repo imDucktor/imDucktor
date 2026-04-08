@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sametsarikaya&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 # This Account Has Moved!
 
 Hi there! I have recently updated my GitHub username. 
